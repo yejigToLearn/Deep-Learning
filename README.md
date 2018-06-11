@@ -9,3 +9,6 @@ https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring
 
 * Image Classification - CIFAR
 Work done as part of Udacity's deep learning foundations nano degree
+
+* 参考教程
+https://towardsdatascience.com/building-a-custom-mask-rcnn-model-with-tensorflow-object-detection-952f5b0c7ab4
